@@ -1,8 +1,9 @@
 {
   "name": "data-lifecycle",
   "description": "End-to-end Data Engineering lifecycle skills pack (grill-me, profile, requirements, spec, orchestrate, security, plan, test-reconcile, review)",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": {
     "name": "darrentjung123"
-  }
+  },
+  "skills": "./skills"
 }
