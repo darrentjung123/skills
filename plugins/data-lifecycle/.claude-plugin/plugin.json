@@ -1,0 +1,7 @@
+{
+  "name": "data-lifecycle",
+  "description": "Platform-neutral skills for building and running data pipelines and integrations end to end: discovery, design, build planning, testing, review, and day-two operations.",
+  "author": {
+    "name": "Darren Tjung"
+  }
+}

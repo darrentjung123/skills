@@ -1,0 +1,11 @@
+{
+  "name": "data-lifecycle-skills",
+  "owner": { "name": "Darren Tjung" },
+  "plugins": [
+    {
+      "name": "data-lifecycle",
+      "source": "./plugins/data-lifecycle",
+      "description": "Platform-neutral skills for building and running data pipelines and integrations end to end."
+    }
+  ]
+}
