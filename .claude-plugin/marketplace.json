@@ -1,0 +1,13 @@
+{
+  "name": "data-lifecycle-skills",
+  "owner": {
+    "name": "darrentjung123"
+  },
+  "plugins": [
+    {
+      "name": "data-lifecycle",
+      "source": "./data-lifecycle-skills",
+      "description": "End-to-end Data Engineering lifecycle skills pack (grill-me, profile, requirements, spec, orchestrate, security, plan, test-reconcile, review)"
+    }
+  ]
+}
